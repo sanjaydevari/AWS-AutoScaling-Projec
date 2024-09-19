@@ -96,8 +96,7 @@ Load-balancer is created successfully.
 
 # `Creation of Auto-Scaling:`
 Select the launch template.
-
-alt text
+![Screenshot 2024-09-18 124700 15](https://github.com/user-attachments/assets/d7199888-fd45-45b2-8ee6-c9e897849a1d)
 
 Select the availability-zones.
 
