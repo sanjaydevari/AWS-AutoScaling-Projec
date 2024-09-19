@@ -146,8 +146,7 @@ I got notification for launching of new instance
 ![Screenshot 2024-09-18 201300 28](https://github.com/user-attachments/assets/7a5ac0eb-e475-4304-8d50-642977516b35)
 
 I have successfully implemented the autocaling project
-
-alt text
+![Screenshot 2024-09-18 192704 29](https://github.com/user-attachments/assets/5b5b3842-92ab-4141-966a-aad79131d81e)
 
 # `Conclusion:`
 By harnessing the power of AWS autoscaling and load balancing, I've successfully enhanced the availability, scalability, and reliability of our application. In real-time This ensures a seamless user experience even during periods of high demand, ultimately driving customer satisfaction and business success.
