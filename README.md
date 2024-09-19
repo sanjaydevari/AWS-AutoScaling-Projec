@@ -54,8 +54,7 @@ The launch template is created successfully.
 
 # `Ceation of Target-Group:`
 Create a Target-Group.
-
-alt text
+![Screenshot 2024-09-18 123517 6](https://github.com/user-attachments/assets/84cc5004-22af-405f-ac9e-3908fb1bb7d5)
 
 Enter the name of the target-group.
 
