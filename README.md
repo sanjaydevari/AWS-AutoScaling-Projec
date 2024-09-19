@@ -124,8 +124,7 @@ You can get notification for every launching and termination of instances
 ![Screenshot 2024-09-18 134859 22](https://github.com/user-attachments/assets/bb8ad646-62e2-4852-a354-323497d31a67)
 
 The auto-scaling-group is created successfully.
-
-alt text
+![Screenshot 2024-09-18 192549 23](https://github.com/user-attachments/assets/185852b6-071b-4610-8f50-fba393cc6d64)
 
 The instance is initialized by the elastic-autoscaling-group
 
