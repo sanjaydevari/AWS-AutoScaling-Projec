@@ -127,8 +127,7 @@ The auto-scaling-group is created successfully.
 ![Screenshot 2024-09-18 192549 23](https://github.com/user-attachments/assets/185852b6-071b-4610-8f50-fba393cc6d64)
 
 The instance is initialized by the elastic-autoscaling-group
-
-alt text
+![Screenshot 2024-09-19 114603 24](https://github.com/user-attachments/assets/e3680954-a37d-488e-b993-435d8a5a8e0b)
 
 I connected to the instance and installed the stress in it.
 
