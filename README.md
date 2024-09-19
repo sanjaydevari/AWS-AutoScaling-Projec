@@ -136,8 +136,7 @@ The stress is a artificial load increser which increases the cpu-utilization tha
 we can have to enter the command : stress -c "percentage of cpu-utilization you want to increase" .
 
 command : stress -c 400
-
-alt text
+![Screenshot 2024-09-18 200039 25](https://github.com/user-attachments/assets/95c81e0f-2c80-4342-9af2-466ab1a3040c)
 
 The cpu-utilization increased
 
