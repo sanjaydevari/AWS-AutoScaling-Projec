@@ -92,8 +92,7 @@ Add the target-group
 ![Screenshot 2024-09-18 124148 13](https://github.com/user-attachments/assets/1482fd0e-910e-4d12-b206-dd0207eaf3e8)
 
 Load-balancer is created successfully.
-
-alt text
+![Screenshot 2024-09-18 124232 14](https://github.com/user-attachments/assets/3424edfd-92b4-424b-86a0-a5beadec9da4)
 
 # `Creation of Auto-Scaling:`
 Select the launch template.
