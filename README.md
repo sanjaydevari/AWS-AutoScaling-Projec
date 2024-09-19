@@ -102,8 +102,7 @@ Select the availability-zones.
 ![Screenshot 2024-09-18 134332 16](https://github.com/user-attachments/assets/fa019293-a56f-4989-8406-5b96c67c5fac)
 
 Attach the load-balancer
-
-alt text
+![Screenshot 2024-09-18 134418 17](https://github.com/user-attachments/assets/84ee7ea0-3b05-4237-bd81-db72396414b7)
 
 alt text
 
