@@ -106,8 +106,7 @@ Attach the load-balancer
 ![Screenshot 2024-09-18 134506 18](https://github.com/user-attachments/assets/52dc8f70-295f-4976-97f0-4ab0de439354)
 
 Enter the desired capacity for instances.
-
-alt text
+![Screenshot 2024-09-18 134552 19](https://github.com/user-attachments/assets/a2cd370a-f4b5-4021-b7f0-806cf6424601)
 
 Enter the minimum and maximum capacity for the instances
 
