@@ -50,8 +50,7 @@ Here i used default subnet-id and selected the existing security-group.
 ![Screenshot 2024-09-18 122843 4](https://github.com/user-attachments/assets/edef9637-aa32-4447-ac6d-d87dd85974fb)
 
 The launch template is created successfully.
-
-alt text
+![Screenshot 2024-09-18 123403 5](https://github.com/user-attachments/assets/83b264f1-eef2-45b7-94a4-1d499f5ec314)
 
 # `Ceation of Target-Group:`
 Create a Target-Group.
