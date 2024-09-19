@@ -66,8 +66,7 @@ Select the vpc
 ![Screenshot 2024-09-18 123625 7](https://github.com/user-attachments/assets/44d7bf91-b406-4976-8554-a75108f10f6f)
 
 Enter the path of the health checkuo here i used : /health
-
-alt text
+![Screenshot 2024-09-18 123730 8](https://github.com/user-attachments/assets/96a9dc1d-5ec5-4f38-8577-a3d51e3fda8c)
 
 The Target-Group is created successfully.
 
