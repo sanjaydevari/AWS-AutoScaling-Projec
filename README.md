@@ -137,6 +137,7 @@ we can have to enter the command : stress -c "percentage of cpu-utilization you 
 
 command : stress -c 400
 ![Screenshot 2024-09-18 200039 25](https://github.com/user-attachments/assets/95c81e0f-2c80-4342-9af2-466ab1a3040c)
+![Screenshot 2024-09-18 200025 26](https://github.com/user-attachments/assets/4aebc60f-e39b-4956-825d-1008895260e2)
 
 The cpu-utilization increased
 
