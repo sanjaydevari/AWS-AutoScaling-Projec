@@ -103,8 +103,7 @@ Select the availability-zones.
 
 Attach the load-balancer
 ![Screenshot 2024-09-18 134418 17](https://github.com/user-attachments/assets/84ee7ea0-3b05-4237-bd81-db72396414b7)
-
-alt text
+![Screenshot 2024-09-18 134506 18](https://github.com/user-attachments/assets/52dc8f70-295f-4976-97f0-4ab0de439354)
 
 Enter the desired capacity for instances.
 
