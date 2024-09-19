@@ -143,8 +143,7 @@ The cpu-utilization increased
 ![Screenshot 2024-09-18 201221 27](https://github.com/user-attachments/assets/88f4552e-0788-4b90-894d-be4636050887)
 
 I got notification for launching of new instance
-
-alt text alt text
+![Screenshot 2024-09-18 201300 28](https://github.com/user-attachments/assets/7a5ac0eb-e475-4304-8d50-642977516b35)
 
 I have successfully implemented the autocaling project
 
