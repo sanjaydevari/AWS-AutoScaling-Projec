@@ -36,11 +36,8 @@ Enter the description as the purpose of creation of launch tempalate
 
 ![Screenshot 2024-09-18 122541 1](https://github.com/user-attachments/assets/3c7690ed-d00d-4737-89bc-98b3fe0856bf)
 
-alt text
-
 Select the amazon machine image "AMI"
-
-alt text
+![Screenshot 2024-09-18 122615 2](https://github.com/user-attachments/assets/8d32b6dd-7fb0-4f55-ad4e-ced8ed9c4f1b)
 
 Select the instance type here i used "t2.micro".
 
