@@ -69,10 +69,10 @@ Enter the path of the health checkuo here i used : /health
 ![Screenshot 2024-09-18 123730 8](https://github.com/user-attachments/assets/96a9dc1d-5ec5-4f38-8577-a3d51e3fda8c)
 
 The Target-Group is created successfully.
-
-alt text
+![Screenshot 2024-09-18 123838 9](https://github.com/user-attachments/assets/ea457160-7970-4908-aaa1-c8e856f55ae7)
 
 # `Creation of LoadBalancer:`
+
 Select the Application Loadbalancer.
 
 alt text
