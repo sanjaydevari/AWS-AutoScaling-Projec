@@ -113,8 +113,7 @@ Enter the minimum and maximum capacity for the instances
 here i choose min=1,max=5
 
 Select the scaling target policy as cpu-utilization
-
-alt text
+![Screenshot 2024-09-18 134700 20](https://github.com/user-attachments/assets/fce931d7-863a-4c22-8eb0-27ea29f51455)
 
 Then select the cpu limit as 50% for scaling the instance.
 
