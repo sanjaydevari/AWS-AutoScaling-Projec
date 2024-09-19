@@ -116,8 +116,7 @@ Select the scaling target policy as cpu-utilization
 ![Screenshot 2024-09-18 134700 20](https://github.com/user-attachments/assets/fce931d7-863a-4c22-8eb0-27ea29f51455)
 
 Then select the cpu limit as 50% for scaling the instance.
-
-alt text
+![Screenshot 2024-09-18 134804 21](https://github.com/user-attachments/assets/57fb50e1-eb2f-4162-92d4-376dafdd6857)
 
 Add the notification : E-mail
 
