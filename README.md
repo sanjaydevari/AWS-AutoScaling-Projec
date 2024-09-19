@@ -42,8 +42,7 @@ Select the amazon machine image "AMI"
 Select the instance type here i used "t2.micro".
 
 Select the keypair.
-
-alt text
+![Screenshot 2024-09-18 122653 3](https://github.com/user-attachments/assets/e8cc3d00-0d9a-4196-b4b8-c34ff56fc435)
 
 Configure the network settings:
 
