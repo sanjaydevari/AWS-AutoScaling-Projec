@@ -121,8 +121,7 @@ Then select the cpu limit as 50% for scaling the instance.
 Add the notification : E-mail
 
 You can get notification for every launching and termination of instances
-
-alt text
+![Screenshot 2024-09-18 134859 22](https://github.com/user-attachments/assets/bb8ad646-62e2-4852-a354-323497d31a67)
 
 The auto-scaling-group is created successfully.
 
