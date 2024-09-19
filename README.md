@@ -47,8 +47,7 @@ Select the keypair.
 Configure the network settings:
 
 Here i used default subnet-id and selected the existing security-group.
-
-alt text
+![Screenshot 2024-09-18 122843 4](https://github.com/user-attachments/assets/edef9637-aa32-4447-ac6d-d87dd85974fb)
 
 The launch template is created successfully.
 
