@@ -74,8 +74,7 @@ The Target-Group is created successfully.
 # `Creation of LoadBalancer:`
 
 Select the Application Loadbalancer.
-
-alt text
+![Screenshot 2024-09-18 123906 10](https://github.com/user-attachments/assets/b909fb73-ceee-482d-ac72-da25ceb2112c)
 
 Enter the name of the load-balancer
 
