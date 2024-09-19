@@ -63,8 +63,7 @@ Enter the protocol:port as http:80
 Enter the type of ip-address as : IPv4
 
 Select the vpc
-
-alt text
+![Screenshot 2024-09-18 123625 7](https://github.com/user-attachments/assets/44d7bf91-b406-4976-8554-a75108f10f6f)
 
 Enter the path of the health checkuo here i used : /health
 
