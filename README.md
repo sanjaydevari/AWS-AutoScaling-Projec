@@ -81,8 +81,7 @@ Enter the name of the load-balancer
 select the scheme: as internal-facing
 
 select the ip-address type as : IPv4
-
-alt text
+![Screenshot 2024-09-18 124012 11](https://github.com/user-attachments/assets/3f783787-3819-4022-ba35-e8b8a562712f)
 
 Configure the network mapping :
 
