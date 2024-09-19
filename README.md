@@ -34,6 +34,8 @@ Enter the name of the launch template.
 
 Enter the description as the purpose of creation of launch tempalate
 
+![Screenshot 2024-09-18 122541 1](https://github.com/user-attachments/assets/3c7690ed-d00d-4737-89bc-98b3fe0856bf)
+
 alt text
 
 Select the amazon machine image "AMI"
