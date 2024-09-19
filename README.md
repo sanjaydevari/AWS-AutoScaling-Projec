@@ -140,8 +140,7 @@ command : stress -c 400
 ![Screenshot 2024-09-18 200025 26](https://github.com/user-attachments/assets/4aebc60f-e39b-4956-825d-1008895260e2)
 
 The cpu-utilization increased
-
-alt text
+![Screenshot 2024-09-18 201221 27](https://github.com/user-attachments/assets/88f4552e-0788-4b90-894d-be4636050887)
 
 I got notification for launching of new instance
 
