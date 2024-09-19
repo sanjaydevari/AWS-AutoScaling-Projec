@@ -89,8 +89,7 @@ Select the Availability zones for the vpc
 ![Screenshot 2024-09-18 124055 12](https://github.com/user-attachments/assets/dfcc3726-d2a2-4ceb-8055-670522ecbcb6)
 
 Add the target-group
-
-alt text
+![Screenshot 2024-09-18 124148 13](https://github.com/user-attachments/assets/1482fd0e-910e-4d12-b206-dd0207eaf3e8)
 
 Load-balancer is created successfully.
 
